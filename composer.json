@@ -1,0 +1,16 @@
+{
+    "name": "mangdin/auth",
+    "description": "mangdin auth",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "mangdin",
+            "email": "service@mangdin.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mangdin\\": "auth/"
+        }
+    }
+}
