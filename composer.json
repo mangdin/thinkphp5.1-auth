@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "mangdin\\": "auth"
+      "mangdin\\thinkphp5.1-auth\\": ""
     }
   },
   "config": {
